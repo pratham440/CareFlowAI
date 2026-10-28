@@ -1,0 +1,6 @@
+{
+  "name": "CareFlow AI",
+  "description": "Modern healthcare administration web application for managing appointment requests, support tickets, and patient follow-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
